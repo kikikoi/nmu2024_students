@@ -22,5 +22,4 @@ The HTML snippet for add a new line shown as given
 </tr>
 ```
 
-[Example result from docs/index.html](https://github.com/kikikoi/nmu2024_students/edit/main/docs/index.html "click to preview") 
 
