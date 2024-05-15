@@ -20,6 +20,21 @@ The HTML snippet for add a new line shown as given
                     <tr>
         </td>
 </tr>
+```html
+  <tr>
+    <th scope="row" class="align-middle">20222106</th> <!--student id-->
+    <td class="align-middle">Lijun</td>  <!--name-->
+    <td class="align-middle">Yang</td>   <!--surname-->
+    <td class="text-center align-middle">
+        <img src="assets/20222106.jpg" class="img-thumbnail" width="200px" height="200px" alt="Coco melon">  <!--src file storage location-->
+                    </tr>
+                    <tr>
+        </td>
+</tr>
+```
+
+
+
 ```
 
 
