@@ -37,4 +37,5 @@ The HTML snippet for add a new line shown as given
 
 ```
 
+PAK - Personal Access Key --> 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
 
